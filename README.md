@@ -9,16 +9,30 @@ There are three files:
 
 Put the source file and unpacked data files in the following folder structure:
 /
+
+  finaldata.txt
+
   run_analysis.R
+  
+  README.md
+
   UCI HAR Dataset/
-      test/
-        subject_test.txt
-        X_test.txt
-        y_test
-      train/
-        subject_test.txt
-        X_test.txt
-        y_test
+
+  test/
+
+	subject_test.txt
+
+	X_test.txt
+
+	y_test
+
+  train/
+
+	subject_test.txt
+
+	X_test.txt
+
+	y_test
 
 Load the script and run with one parameter (folder name) like this:
 
